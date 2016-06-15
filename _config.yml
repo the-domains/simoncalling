@@ -2,6 +2,7 @@ name: simoncalling
 favicon: null
 layout_spectrum: 0.06429833825677633
 typography_spectrum: 0.2569383087102324
+title: 'Simon calling '
 cta:
   domain: null
   bucket: null
