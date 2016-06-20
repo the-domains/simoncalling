@@ -2,26 +2,16 @@
     <channel>
         <title><![CDATA[Simon calling ]]></title>
         <description><![CDATA[Simon calling ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/simoncalling/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 15 Jun 2016 21:03:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 20 Jun 2016 12:05:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/simoncalling/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The real me]]></title>
-            <description><![CDATA[<p>An
-Elizabethan adage affirmed that ‘Truth is truth, to the end of reckoning’. The author
-is William Shakespeare, and even when it looks like a positivist maxim, is not,
-since he was not a positivist nor a scientist. That has been brought up for a
-reason. The truth, the reality, the real world, are challenging matters broadly
-discussed by both scientists and thinkers, mainly under the scope of Empiricism
-and Rationalism. Nevertheless, it is reflected in the definition of Science
-nowadays. It has been defined as comprised group of interconnected allegoric statements,
-meaning that when there’s a discussion about facts and theories, data and
-assumptions, the very real world is not the subject of it, but a set of
-descriptions and propositions concerning the world (Jan </p>]]></description>
-            <link>undefinedthe-real-me/index.html</link>
+            <description><![CDATA[<p>An Elizabethan adage affirmed that ‘Truth is truth, to the end of reckoning’. The author is William Shakespeare, and even when it looks like a positivist maxim, is not, since he was not a positivist nor a scientist. That has been brought up for a reason. The truth, the reality, the real world, are challenging matters broadly discussed by both scientists and thinkers, mainly under the scope of Empiricism and Rationalism. Nevertheless, it is reflected in the definition of Science nowadays. It has been defined as comprised group of interconnected allegoric statements, meaning that when there’s a discussion about facts and theories, data and assumptions, the very real world is not the subject of it, but a set of descriptions and propositions concerning the world (Jan </p>]]></description>
+            <link>https://thegrid.ai/simoncalling/the-real-me/index.html</link>
             <guid isPermaLink="false">9f3efd5c-2feb-40ad-92d8-2dd3673c0c38</guid>
-            <pubDate>Wed, 15 Jun 2016 21:03:30 GMT</pubDate>
+            <pubDate>Mon, 20 Jun 2016 12:05:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
