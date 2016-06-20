@@ -5,55 +5,32 @@ inNav: false
 inLanguage: null
 keywords: []
 description: >-
-  An
-
-  Elizabethan adage affirmed that ‘Truth is truth, to the end of reckoning’. The
-  author
-
-  is William Shakespeare, and even when it looks like a positivist maxim, is
-  not,
-
-  since he was not a positivist nor a scientist. That has been brought up for a
-
-  reason. The truth, the reality, the real world, are challenging matters
-  broadly
-
-  discussed by both scientists and thinkers, mainly under the scope of
-  Empiricism
-
-  and Rationalism. Nevertheless, it is reflected in the definition of Science
-
-  nowadays. It has been defined as comprised group of interconnected allegoric
-  statements,
-
-  meaning that when there’s a discussion about facts and theories, data and
-
-  assumptions, the very real world is not the subject of it, but a set of
-
-  descriptions and propositions concerning the world (Jan 
-datePublished: '2016-06-15T21:03:30.219Z'
-dateModified: '2016-06-15T21:03:00.543Z'
+  An Elizabethan adage affirmed that ‘Truth is truth, to the end of reckoning’.
+  The author is William Shakespeare, and even when it looks like a positivist
+  maxim, is not, since he was not a positivist nor a scientist. That has been
+  brought up for a reason. The truth, the reality, the real world, are
+  challenging matters broadly discussed by both scientists and thinkers, mainly
+  under the scope of Empiricism and Rationalism. Nevertheless, it is reflected
+  in the definition of Science nowadays. It has been defined as comprised group
+  of interconnected allegoric statements, meaning that when there’s a discussion
+  about facts and theories, data and assumptions, the very real world is not the
+  subject of it, but a set of descriptions and propositions concerning the world
+  (Jan 
+datePublished: '2016-06-20T12:05:40.499Z'
+dateModified: '2016-06-20T12:05:36.537Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-15-the-real-me.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-15-the-real-me.md
 url: the-real-me/index.html
 _type: Article
 
 ---
-An
-Elizabethan adage affirmed that 'Truth is truth, to the end of reckoning'. The author
-is William Shakespeare, and even when it looks like a positivist maxim, is not,
-since he was not a positivist nor a scientist. That has been brought up for a
-reason. The truth, the reality, the real world, are challenging matters broadly
-discussed by both scientists and thinkers, mainly under the scope of Empiricism
-and Rationalism. Nevertheless, it is reflected in the definition of Science
-nowadays. It has been defined as comprised group of interconnected allegoric statements,
-meaning that when there's a discussion about facts and theories, data and
-assumptions, the very real world is not the subject of it, but a set of
-descriptions and propositions concerning the world (Jan 
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/06819c73-d23d-4549-aa28-0dfe7cb7ba62.jpg)
+
+An Elizabethan adage affirmed that 'Truth is truth, to the end of reckoning'. The author is William Shakespeare, and even when it looks like a positivist maxim, is not, since he was not a positivist nor a scientist. That has been brought up for a reason. The truth, the reality, the real world, are challenging matters broadly discussed by both scientists and thinkers, mainly under the scope of Empiricism and Rationalism. Nevertheless, it is reflected in the definition of Science nowadays. It has been defined as comprised group of interconnected allegoric statements, meaning that when there's a discussion about facts and theories, data and assumptions, the very real world is not the subject of it, but a set of descriptions and propositions concerning the world (Jan 
 
 _et al_
 
@@ -74,3 +51,4 @@ base of Durkheim's theory lies in his concept of Social Facts. This is
 explained by Ritzer (1995, p.215) as 'the Heart' of his ideas. Durkheim
 classified social facts as material and nonmaterial, highlighting the
 importance of nonmaterial social facts
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/367a53b6-6529-4e2c-b299-7458bbe0c72d.jpg)
